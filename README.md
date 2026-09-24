@@ -1,3 +1,3 @@
-# 30-JS-projects
+# 20-JS-projects
 
 For beginners 
